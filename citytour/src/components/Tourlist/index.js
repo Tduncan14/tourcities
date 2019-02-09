@@ -3,11 +3,10 @@ import './Tourlist.scss';
 import Tour from '../Tour/Tour';
 
 class Tourlist extends Component {
-      //super()
-
-   /*   state ={
-          blank:black
-      } */
+      
+    state ={
+          tours:[]
+      } 
       render(){
           return(
               <section className="tourList">
