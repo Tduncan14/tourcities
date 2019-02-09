@@ -10,7 +10,7 @@ class Tourlist extends Component {
       } */
       render(){
           return(
-              <section>
+              <section className="tourList">
                   <Tour />
               </section>
           )
