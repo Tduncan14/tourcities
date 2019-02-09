@@ -44,4 +44,4 @@ export const tourData = [
             info:'More real text will come soon'
         }
 
-]
+];
